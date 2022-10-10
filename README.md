@@ -6,7 +6,7 @@ Here are some details about the included subfolders and their contents.
 
 This folder includes photos of ants. Here is an example.
 
-<img src=“./images/casent_0172345_rhytidoponera_metallica.jpg” style="width:150px;"/> 
+<img src=“.blob/master/images/casent_0172345_rhytidoponera_metallica.jpg” style="width:150px;"/> 
 
 If you want to know more about ants, here is a [LINK](https://en.wikipedia.org/wiki/Ant) to the wikipedia article.
 
